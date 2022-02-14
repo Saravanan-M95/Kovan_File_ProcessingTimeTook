@@ -1,0 +1,9 @@
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 3338 processing SUCCEEDED. ProcessingTimeTook: 10 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 5338 processing SUCCEEDED. ProcessingTimeTook: 13 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 6338 processing SUCCEEDED. ProcessingTimeTook: 12 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 3338 processing SUCCEEDED. ProcessingTimeTook: 15 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 5338 processing SUCCEEDED. ProcessingTimeTook: 50 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 6338 processing SUCCEEDED. ProcessingTimeTook: 40 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 3338 processing SUCCEEDED. ProcessingTimeTook: 30 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 5338 processing SUCCEEDED. ProcessingTimeTook: 25 milliseconds.
+INFO 23 Jul 2010 08:57:21,212 [Fusion Result Processor1] (FusionResultProcessor.java:145) - -- -- -- -- -- -- -- -- -- -&gt; Feed id: 6338 processing SUCCEEDED. ProcessingTimeTook: 19 milliseconds.
